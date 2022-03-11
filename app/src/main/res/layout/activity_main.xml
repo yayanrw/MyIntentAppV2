@@ -14,4 +14,10 @@
         android:layout_height="wrap_content"
         android:text="@string/pindah_activity"/>
 
+    <Button
+        android:id="@+id/btn_pindah_activity_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/move_activity_with_data"/>
+
 </LinearLayout>
