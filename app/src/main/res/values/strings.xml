@@ -3,4 +3,6 @@
     <string name="pindah_activity">PINDAH ACTIVITY</string>
     <string name="move_activity_with_data">Pindah Activity dengan Data</string>
     <string name="data_received">data received</string>
+    <string name="move_activity_with_object">Pindah Activity With Object</string>
+    <string name="object_received">object received</string>
 </resources>
